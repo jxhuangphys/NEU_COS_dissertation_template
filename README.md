@@ -2,8 +2,8 @@
 
 The Ph.D. Dissertation LaTeX Template for **College of Science** students at **Northeastern University**.
 
-To our best knowledge, there is no publicly available NEU-COS dissertation LaTeX template in December 2023 (NEU-COE has an official one but their format is quite different from COS requirements). Creating such a LaTeX template from scratch can be a time-consuming task. To save our fellow researchers some time, in this repo we haved shared a ready-to-use Latex template. So please feel free to directly use this templete in your dissertation to accelerate your writing.
+As of December 2023, to the best of our knowledge, there isn't a publicly available NEU-COS dissertation LaTeX template (unlike NEU-COE, which has an official one with differing format requirements). Recognizing the significant time investment required to create a LaTeX template from scratch, we have developed and shared a ready-to-use template in this repository to aid our fellow researchers.
 
-This template aligns with the official format requirements as outlined in the Official-Sample-Pages-Dissertation-and-Thesis-COS.pdf, which have been meticulously replicated in our 'main.pdf' file (via main.tex).
+This template aligns with the official format requirements as outlined in the Official-Sample-Pages-Dissertation-and-Thesis-COS.pdf. These guidelines have been carefully replicated in our 'main.pdf' file, generated from 'main.tex.'
 
-While not obligatory, a mention in your acknowledgment section would be appreciated to increase awareness of this resource among the student community. Alternatively, sharing this link with your peers would also be highly beneficial.
+While not obligatory, a mention in your acknowledgment section would be appreciated to increase awareness of this resource among the student community. Alternatively, sharing this link with your peers would also contribute to its wider usage and benefit.
